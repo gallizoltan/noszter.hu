@@ -1252,7 +1252,7 @@ hu: &DEFAULT_HU
   comments_title             : "Hozzászólások"
   more_label                 : "Tovább"
   related_label              : "Ajánlások"
-  follow_label               : "Követés:"
+  follow_label               : "Forráskód:"
   feed_label                 : "Folyam"
   powered_by                 : "Powered by"
   website_label              : "Honlap"
