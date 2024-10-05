@@ -134,7 +134,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/gallizoltan/minimal-mistakes"
+      url: "https://github.com/gallizoltan/noszter.hu"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -150,7 +150,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/gallizoltan/minimal-mistakes"
+      url: "https://github.com/gallizoltan/noszter.hu"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
