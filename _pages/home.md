@@ -18,7 +18,7 @@ excerpt: "Ahol nem a multicégek birtokolják az adataidat"
 
 # Mi az a Noszter?
 
-A "Nostr" (amerikai mozaikszó: Notes and Other Stuff Transmitted by Relays, magyar kiejtéssel: "Noszter") egy új, decentralizált kommunikációs protokoll, amely teljesen átalakítja a közösségi hálózatok működését. A hagyományos közösségi média platformokkal ellentétben, ahol a felhasználók adatai egyetlen vállalat szerverein tárolódnak, a Noszter elosztott hálózaton alapul, így nagyobb szabadságot és adatbiztonságot kínál.
+A "Nostr" (amerikai mozaikszó: Notes and Other Stuff Transmitted by Relays, magyar kiejtéssel: "Noszter") egy új, decentralizált kommunikációs protokoll, amely teljesen átalakítja a közösségi hálózatok működését. A hagyományos közösségi médiával ellentétben, ahol a felhasználók adatai egyetlen vállalat szerverein tárolódnak, a Noszter elosztott hálózat, így nagyobb szabadságot és adatbiztonságot kínál.
 
 ## Miért jó ez a gyakorlatban?
 
@@ -29,7 +29,7 @@ A Noszter nem függ egyetlen központi szervertől vagy cégtől, nincsen vezér
 A felhasználói kulcsokkal mindenki saját maga kontrollálja a személyes adatait. Nincs szükség központosított ellenőrzésre vagy bejelentkezési rendszerre, ami nagyobb biztonságot nyújt. A titkosítás garantálja, hogy a kommunikáció ne legyen kiszolgáltatva harmadik félnek.
 
 ### 3. Ellenáll a cenzúrának
-Mivel a Noszter decentralizált hálózat, gyakorlatilag lehetetlen letiltani vagy cenzúrázni a felhasználókat. A tartalmat több független relé továbbítja, így nincsen gyenge pont, támadási pont (single point of failure), ahol ki lehetne zárni felhasználókat/tartalmakat a rendszerből.
+Mivel a Noszter hálózatnak nincs központja, gyakorlatilag lehetetlen letiltani vagy cenzúrázni a felhasználókat. A tartalmat több független relé továbbítja, így nincsen gyenge pont, támadási pont (single point of failure), ahol ki lehetne zárni felhasználókat/tartalmakat a rendszerből.
 
 ### 4. Nyílt forráskódú és közösségi alapú
 A Noszter nyílt forráskódú projekt, tehát nincsen benne rejtett algoritmus, ami valamilyen titkos szisztéma szerint adagolná a tartalmat a felhasználóknak. Ugyanakkor bárki hozzájárulhat a hálózat fejlesztéséhez, és részt vehet a növekvő közösség építésében.
