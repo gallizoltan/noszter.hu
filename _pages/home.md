@@ -37,6 +37,25 @@ A Noszter nyílt forráskódú projekt, tehát nincsen benne rejtett algoritmus,
 ### 5. Platform helyett protokoll
 A Noszter nem köti a felhasználókat egyetlen alkalmazáshoz vagy weboldalhoz. Számos kliens áll rendelkezésre különféle platformokon (mobil, asztali gép, stb.), így mindenki a számára legmegfelelőbb felületen férhet hozzá. A kliensek közötti váltás a gyakorlatban olyan, mintha valaki átköltözne Facebookról Telegrammra, de megmaradna az összes ismerőse és korábbi bejegyzése.
 
+## Mik a gyengeségei a Noszternek?
+
+### 1. Biztonsági kockázatok
+A Noszter protokoll használata során a felhasználók sebezhetők lehetnek a biztonsági támadásokkal szemben, például a phishing-támadások vagy a kriptográfiai támadások, miközben a relék és a média szerverek gyűjthetik a felhasználók IP címeit.
+
+### 2. Skálázhatóság
+Kérdéses, hogy a Noszter mennyire alkalmas nagy méretű hálózat kezelésére. Ez korlátozhatja a felhasználók számát és a hálózat teljesítményét.
+
+### 3. Felhasználói élmény
+A Noszter használata során sokaknak nehézséget okoz, hogy a felhasználói felület nem elég felhasználóbarát. Nincs "content discovery", ami a felhasználó számára érdekes tartalmakat automatikusan kikeresné, felkínálná.
+
+### 4. Privát kulcsok
+A Noszter használatakor a felhasználóknak vigyázniuk kell a privát kulcsukra, miközben online tevékenykednek. Jelenleg nincs "key rotation", a kiszivárgott privát kulcs cseréjére nincs jó megoldás.
+
+### 5. Adatok tárolása, módosítása, törlése
+A Noszter nem rendelkezik központi adattárolással, vagyis a relék/média szerverek kiesésekor a felhasználók felelősek a saját adataik tárolásáért. Ugyanakkor a hálózaton publikált adatot nem lehet módosítani, törölni. Ez különösen fontos lehet olyankor, ha valaki érzékeny vagy személyes információt oszt meg, és később ezt megbánja.
+
+Fontos megjegyezni, hogy a Noszter protokoll még fejlesztés alatt áll, a fejlesztők folyamatosan dolgoznak a rendszer biztonságának és skálázhatóságának javításán.
+
 ---
 
 A Noszter nem csak közösségi hálózati protokoll, hanem a jövő internetének alapja, ahol a felhasználói szabadság, adatvédelem és tulajdonjog elsődleges szempont. Ha eleged van a cenzúrából, a korlátozásokból és a nagyvállalatok vezette közösségi médiából, próbáld ki a Nosztert!
