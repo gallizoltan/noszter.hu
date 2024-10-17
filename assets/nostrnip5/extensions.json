@@ -1,0 +1,20 @@
+{
+    "featured": [
+        "nostrnip5"
+    ],
+    "extensions": [
+        {
+            "id": "nostrnip5",
+            "repo": "https://github.com/lnbits/nostrnip5",
+            "name": "NostrNip5",
+            "version": "0.2.9-mod",
+            "min_lnbits_version": "0.12.9",
+            "max_lnbits_version": "0",
+            "short_description": "Create NIP05 address for your domains",
+            "icon": "https://github.com/lnbits/nostrnip5/raw/main/static/image/nostrnip5.png",
+            "details_link": "https://raw.githubusercontent.com/lnbits/nostrnip5/main/config.json",
+            "archive": "https://dev.noszter.hu/assets/nostrnip5/nostrnip5-0.2.9-mod.zip",
+            "hash": "716e6c761013a99fd135021649948183661eeced3fc2e5b39b2ff162c9ccec45"
+        }
+    ]
+}

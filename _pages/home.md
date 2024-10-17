@@ -3,7 +3,7 @@ title: "Decentralizált közösségi hálózat"
 disable_title_ext: true
 layout: splash
 permalink: /
-last_modified_at: 2024-07-19T18:45:45+02:00
+last_modified_at: 2024-10-08T12:09:41+02:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"

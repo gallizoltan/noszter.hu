@@ -2,8 +2,8 @@
 main:
   - title: "Primal kliens"
     url: https://primal.net/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "NIP-5 azonosító"
+    url: /nip5
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
