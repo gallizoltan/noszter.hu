@@ -18,7 +18,7 @@ excerpt: "Ahol nem a multicégek birtokolják az adataidat"
 
 # Mi az a Noszter?
 
-A "Nostr" (amerikai mozaikszó: Notes and Other Stuff Transmitted by Relays, magyar kiejtéssel: "Noszter") egy új, decentralizált kommunikációs protokoll, amely teljesen átalakítja a közösségi hálózatok működését. A hagyományos közösségi médiával ellentétben, ahol a felhasználók adatai egyetlen vállalat szerverein tárolódnak, a Noszter elosztott hálózat, így nagyobb szabadságot és adatbiztonságot kínál.
+A "Nostr" (angol mozaikszó: Notes and Other Stuff Transmitted by Relays, magyar kiejtéssel: "Noszter") egy új, decentralizált kommunikációs protokoll, amely teljesen átalakítja a közösségi hálózatok működését. A hagyományos közösségi médiával ellentétben, ahol a felhasználók adatai egyetlen vállalat szerverein tárolódnak, a Noszter elosztott hálózat, így nagyobb szabadságot és adatbiztonságot kínál.
 
 ## Miért jó ez a gyakorlatban?
 
