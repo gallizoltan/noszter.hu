@@ -11,7 +11,7 @@ header:
   caption: "Fotó: [**Pexels**](https://www.pexels.com/photo/ostrich-under-white-sky-60692/)"
   actions:
     - label: Kipróbálom
-      url: https://primal.net/
+      url: https://primal.noszter.hu/
   og_image: /assets/images/struccok_og.jpg
 excerpt: "Ahol nem a multicégek birtokolják az adataidat"
 ---
